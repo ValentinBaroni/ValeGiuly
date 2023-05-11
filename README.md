@@ -1,2 +1,2 @@
 # ValeGiuly
-Repo in cui bisogna invitare un utente
+Repo in cui bisogna invitare un utente.
